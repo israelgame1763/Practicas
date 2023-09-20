@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author expec
+ * @author 
  */
 public class AreaTriangulo {
 
