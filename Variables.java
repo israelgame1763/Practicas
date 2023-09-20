@@ -6,7 +6,7 @@ package variables;
 
 /**
  *
- * @author expec
+ * @author 
  */
 public class Variables {
 
@@ -18,7 +18,7 @@ public class Variables {
         String nombre = "Israel"; // mi nombre
         String materia = "Fundamentos de Programacion";
         String nombreMascota = "borbuja";
-        final int añoNacimiento = 2005;
+        final int aÃ±oNacimiento = 2005;
         String cadenaTexto = "cadena de texto !!!!%%$$";
         System.out.println("mi nombre es: "+nombre);
         System.out.println("mi nombre es: "+nombre+" y estudio: "+materia);
